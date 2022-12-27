@@ -1,6 +1,6 @@
 # chatEGyPT
 
-try it <a href="https://chatgptegy.vercel.app/" target='__blank">here</a>
+## [Try it From Here](https://chatgptegy.vercel.app/)
 As chatGPT is not avaialable in all countries ,and everyone wants to use it 
 i created this one specifically for egypt 
 as its not avaialable here still 
